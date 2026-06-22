@@ -49,56 +49,18 @@ Identify:
 
 The project consists of two interactive Power BI dashboards:
 
----
 
-## 1️⃣ Executive Dashboard
+### Bharat Herled  Digital Pilot & Market Readiness
+<p align="center">
+<img src="Bharat Herled  Digital Pilot & Market Readiness.png" width="800">
+</p>
 
-### Focus Areas
+### Bharat Herald – Financial & Circulation Performance
+<p align="center">
+<img src="Bharat Herald – Financial & Circulation Performance.png" width="800">
+</p>
 
-- Digital Readiness Score
-- Audience Reach
-- Engagement Rate
-- Bounce Rate
-- Platform Performance
-- City-wise Prioritization
-- Print Decline Analysis
 
-### Key KPIs
-
-| KPI | Value |
-|------|-------|
-| Downloads | 36K |
-| Users Reached | 89K |
-| Avg Bounce Rate | 72.8 |
-| Digital Readiness Score | 75.1 |
-| Engagement Rate | 0.41 |
-
----
-
-## 2️⃣ Financial Dashboard
-
-### Focus Areas
-
-- Ad Revenue
-- Net Circulation
-- Copies Printed
-- Copies Sold
-- Copies Returned
-- ROI Analysis
-- Operational Efficiency
-- Category-wise Revenue
-
-### Key KPIs
-
-| KPI | Value |
-|------|-------|
-| Ad Revenue | ₹374.27M |
-| Net Circulation | 29.6M |
-| Copies Printed | 33.05M |
-| Copies Sold | 31.33M |
-| Copies Returned | 1.73M |
-
----
 
 # 🔍 Key Business Insights
 
@@ -409,26 +371,6 @@ with:
 | Excel | Data Cleaning |
 | Data Modeling | Relationship Management |
 | Business Intelligence | Insight Generation |
-
----
-
-# 📷 Dashboard Snapshots
-
-### Executive Dashboard
-
-> Add screenshot here
-
-```markdown
-![Executive Dashboard](Images/executive_dashboard.png)
-```
-
-### Financial Dashboard
-
-> Add screenshot here
-
-```markdown
-![Financial Dashboard](Images/financial_dashboard.png)
-```
 
 ---
 
